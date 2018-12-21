@@ -63,10 +63,10 @@ table.diff td:nth-child(2) {
 }
 
 .diff .delete {
-  background-color: #fee;
+  background-color: #ff9999;
 }
 .diff .insert {
-  background-color: #efe;
+  background-color: #99ffcc;
 }
 
 .before.replace {
